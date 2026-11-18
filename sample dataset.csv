@@ -1,0 +1,935 @@
+observer_id,checklist_id,obs_date,state_code,county,locality,locality_id,latitude,longitude,duration_min,start_time,distance_km,n_observers,protocol,all_species_reported,common_name,scientific_name,observation_count
+obsr468305,S33839068,2017-01-22,IN-KL,Kottayam,IN-Kerala-Kottayam-Kottayam Kumarakom Road - 9.6483x76.4308,L5286639,9.648306,76.430769,22,23100,0.2,10,Traveling,1,Oriental Darter,Anhinga melanogaster,2
+obsr468305,S33839068,2017-01-22,IN-KL,Kottayam,IN-Kerala-Kottayam-Kottayam Kumarakom Road - 9.6483x76.4308,L5286639,9.648306,76.430769,22,23100,0.2,10,Traveling,1,Eastern Cattle-Egret,Ardea coromanda,6
+obsr468305,S33839068,2017-01-22,IN-KL,Kottayam,IN-Kerala-Kottayam-Kottayam Kumarakom Road - 9.6483x76.4308,L5286639,9.648306,76.430769,22,23100,0.2,10,Traveling,1,Indian Pond-Heron,Ardeola grayii,3
+obsr468305,S33839068,2017-01-22,IN-KL,Kottayam,IN-Kerala-Kottayam-Kottayam Kumarakom Road - 9.6483x76.4308,L5286639,9.648306,76.430769,22,23100,0.2,10,Traveling,1,Whiskered Tern,Chlidonias hybrida,4
+obsr468305,S33839068,2017-01-22,IN-KL,Kottayam,IN-Kerala-Kottayam-Kottayam Kumarakom Road - 9.6483x76.4308,L5286639,9.648306,76.430769,22,23100,0.2,10,Traveling,1,House Crow,Corvus splendens,3
+obsr468305,S33839068,2017-01-22,IN-KL,Kottayam,IN-Kerala-Kottayam-Kottayam Kumarakom Road - 9.6483x76.4308,L5286639,9.648306,76.430769,22,23100,0.2,10,Traveling,1,Lesser Whistling-Duck,Dendrocygna javanica,31
+obsr468305,S33839068,2017-01-22,IN-KL,Kottayam,IN-Kerala-Kottayam-Kottayam Kumarakom Road - 9.6483x76.4308,L5286639,9.648306,76.430769,22,23100,0.2,10,Traveling,1,Little Egret,Egretta garzetta,1
+obsr468305,S33839068,2017-01-22,IN-KL,Kottayam,IN-Kerala-Kottayam-Kottayam Kumarakom Road - 9.6483x76.4308,L5286639,9.648306,76.430769,22,23100,0.2,10,Traveling,1,Asian Koel,Eudynamys scolopaceus,2
+obsr468305,S33839068,2017-01-22,IN-KL,Kottayam,IN-Kerala-Kottayam-Kottayam Kumarakom Road - 9.6483x76.4308,L5286639,9.648306,76.430769,22,23100,0.2,10,Traveling,1,Brahminy Kite,Haliastur indus,2
+obsr468305,S33839068,2017-01-22,IN-KL,Kottayam,IN-Kerala-Kottayam-Kottayam Kumarakom Road - 9.6483x76.4308,L5286639,9.648306,76.430769,22,23100,0.2,10,Traveling,1,Little/Indian Cormorant,Microcarbo niger/Phalacrocorax fuscicollis,2
+obsr468305,S33839068,2017-01-22,IN-KL,Kottayam,IN-Kerala-Kottayam-Kottayam Kumarakom Road - 9.6483x76.4308,L5286639,9.648306,76.430769,22,23100,0.2,10,Traveling,1,Black-crowned Night Heron,Nycticorax nycticorax,2
+obsr468305,S33839068,2017-01-22,IN-KL,Kottayam,IN-Kerala-Kottayam-Kottayam Kumarakom Road - 9.6483x76.4308,L5286639,9.648306,76.430769,22,23100,0.2,10,Traveling,1,Indian Cormorant,Phalacrocorax fuscicollis,2
+obsr302277,S34819172,2017-02-26,IN-MH,Pune,IN-Maharashtra-Lonavala - Kokilam,L5517732,18.7595424,73.3677612,75,41400,1,1,Traveling,1,Vigors's Sunbird,Aethopyga vigorsii,1
+obsr302277,S34819172,2017-02-26,IN-MH,Pune,IN-Maharashtra-Lonavala - Kokilam,L5517732,18.7595424,73.3677612,75,41400,1,1,Traveling,1,Oriental Magpie-Robin,Copsychus saularis,1
+obsr302277,S34819172,2017-02-26,IN-MH,Pune,IN-Maharashtra-Lonavala - Kokilam,L5517732,18.7595424,73.3677612,75,41400,1,1,Traveling,1,Black Drongo,Dicrurus macrocercus,2
+obsr302277,S34819172,2017-02-26,IN-MH,Pune,IN-Maharashtra-Lonavala - Kokilam,L5517732,18.7595424,73.3677612,75,41400,1,1,Traveling,1,Indian Golden Oriole,Oriolus kundoo,1
+obsr302277,S34819172,2017-02-26,IN-MH,Pune,IN-Maharashtra-Lonavala - Kokilam,L5517732,18.7595424,73.3677612,75,41400,1,1,Traveling,1,Coppersmith Barbet,Psilopogon haemacephalus,1
+obsr302277,S34819172,2017-02-26,IN-MH,Pune,IN-Maharashtra-Lonavala - Kokilam,L5517732,18.7595424,73.3677612,75,41400,1,1,Traveling,1,Alexandrine Parakeet,Psittacula eupatria,1
+obsr302277,S34819172,2017-02-26,IN-MH,Pune,IN-Maharashtra-Lonavala - Kokilam,L5517732,18.7595424,73.3677612,75,41400,1,1,Traveling,1,Rose-ringed Parakeet,Psittacula krameri,3
+obsr302277,S34819172,2017-02-26,IN-MH,Pune,IN-Maharashtra-Lonavala - Kokilam,L5517732,18.7595424,73.3677612,75,41400,1,1,Traveling,1,Red-vented Bulbul,Pycnonotus cafer,3
+obsr302277,S34819172,2017-02-26,IN-MH,Pune,IN-Maharashtra-Lonavala - Kokilam,L5517732,18.7595424,73.3677612,75,41400,1,1,Traveling,1,Red-whiskered Bulbul,Pycnonotus jocosus,2
+obsr302277,S34819172,2017-02-26,IN-MH,Pune,IN-Maharashtra-Lonavala - Kokilam,L5517732,18.7595424,73.3677612,75,41400,1,1,Traveling,1,Indian Paradise-Flycatcher,Terpsiphone paradisi,1
+obsr632197,S38256417,2017-07-22,IN-KL,Kottayam,"44,8,4 - IN-Kerala-Olassa-Kudayampadi - Parippu Road",L6111090,9.6105875,76.4746245,15,24600,1,1,Traveling,1,Common Myna,Acridotheres tristis,2
+obsr632197,S38256417,2017-07-22,IN-KL,Kottayam,"44,8,4 - IN-Kerala-Olassa-Kudayampadi - Parippu Road",L6111090,9.6105875,76.4746245,15,24600,1,1,Traveling,1,Jungle Babbler,Argya striata,6
+obsr632197,S38256417,2017-07-22,IN-KL,Kottayam,"44,8,4 - IN-Kerala-Olassa-Kudayampadi - Parippu Road",L6111090,9.6105875,76.4746245,15,24600,1,1,Traveling,1,Greater Coucal,Centropus sinensis,1
+obsr632197,S38256417,2017-07-22,IN-KL,Kottayam,"44,8,4 - IN-Kerala-Olassa-Kudayampadi - Parippu Road",L6111090,9.6105875,76.4746245,15,24600,1,1,Traveling,1,Purple Sunbird,Cinnyris asiaticus,2
+obsr632197,S38256417,2017-07-22,IN-KL,Kottayam,"44,8,4 - IN-Kerala-Olassa-Kudayampadi - Parippu Road",L6111090,9.6105875,76.4746245,15,24600,1,1,Traveling,1,Large-billed Crow,Corvus macrorhynchos,2
+obsr632197,S38256417,2017-07-22,IN-KL,Kottayam,"44,8,4 - IN-Kerala-Olassa-Kudayampadi - Parippu Road",L6111090,9.6105875,76.4746245,15,24600,1,1,Traveling,1,House Crow,Corvus splendens,6
+obsr632197,S38256417,2017-07-22,IN-KL,Kottayam,"44,8,4 - IN-Kerala-Olassa-Kudayampadi - Parippu Road",L6111090,9.6105875,76.4746245,15,24600,1,1,Traveling,1,Rufous Treepie,Dendrocitta vagabunda,4
+obsr632197,S38256417,2017-07-22,IN-KL,Kottayam,"44,8,4 - IN-Kerala-Olassa-Kudayampadi - Parippu Road",L6111090,9.6105875,76.4746245,15,24600,1,1,Traveling,1,Pale-billed Flowerpecker,Dicaeum erythrorhynchos,2
+obsr632197,S38256417,2017-07-22,IN-KL,Kottayam,"44,8,4 - IN-Kerala-Olassa-Kudayampadi - Parippu Road",L6111090,9.6105875,76.4746245,15,24600,1,1,Traveling,1,Black Drongo,Dicrurus macrocercus,2
+obsr632197,S38256417,2017-07-22,IN-KL,Kottayam,"44,8,4 - IN-Kerala-Olassa-Kudayampadi - Parippu Road",L6111090,9.6105875,76.4746245,15,24600,1,1,Traveling,1,Greater Racket-tailed Drongo,Dicrurus paradiseus,6
+obsr632197,S38256417,2017-07-22,IN-KL,Kottayam,"44,8,4 - IN-Kerala-Olassa-Kudayampadi - Parippu Road",L6111090,9.6105875,76.4746245,15,24600,1,1,Traveling,1,Black-rumped Flameback,Dinopium benghalense,2
+obsr632197,S38256417,2017-07-22,IN-KL,Kottayam,"44,8,4 - IN-Kerala-Olassa-Kudayampadi - Parippu Road",L6111090,9.6105875,76.4746245,15,24600,1,1,Traveling,1,White-throated Kingfisher,Halcyon smyrnensis,2
+obsr632197,S38256417,2017-07-22,IN-KL,Kottayam,"44,8,4 - IN-Kerala-Olassa-Kudayampadi - Parippu Road",L6111090,9.6105875,76.4746245,15,24600,1,1,Traveling,1,Purple-rumped Sunbird,Leptocoma zeylonica,4
+obsr632197,S38256417,2017-07-22,IN-KL,Kottayam,"44,8,4 - IN-Kerala-Olassa-Kudayampadi - Parippu Road",L6111090,9.6105875,76.4746245,15,24600,1,1,Traveling,1,Black-hooded Oriole,Oriolus xanthornus,2
+obsr632197,S38256417,2017-07-22,IN-KL,Kottayam,"44,8,4 - IN-Kerala-Olassa-Kudayampadi - Parippu Road",L6111090,9.6105875,76.4746245,15,24600,1,1,Traveling,1,Common Tailorbird,Orthotomus sutorius,2
+obsr632197,S38256417,2017-07-22,IN-KL,Kottayam,"44,8,4 - IN-Kerala-Olassa-Kudayampadi - Parippu Road",L6111090,9.6105875,76.4746245,15,24600,1,1,Traveling,1,White-cheeked Barbet,Psilopogon viridis,2
+obsr632197,S38256417,2017-07-22,IN-KL,Kottayam,"44,8,4 - IN-Kerala-Olassa-Kudayampadi - Parippu Road",L6111090,9.6105875,76.4746245,15,24600,1,1,Traveling,1,Shikra,Tachyspiza badia,1
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Common Myna,Acridotheres tristis,5
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Indian Pond-Heron,Ardeola grayii,1
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Greater Coucal,Centropus sinensis,2
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Purple Sunbird,Cinnyris asiaticus,2
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Loten's Sunbird,Cinnyris lotenius,1
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Rock Pigeon,Columba livia,5
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Large-billed Crow,Corvus macrorhynchos,6
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Pale-billed Flowerpecker,Dicaeum erythrorhynchos,2
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Black Drongo,Dicrurus macrocercus,1
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Asian Koel,Eudynamys scolopaceus,3
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,White-throated Kingfisher,Halcyon smyrnensis,1
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Brahminy Kite,Haliastur indus,1
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Little Cormorant,Microcarbo niger,1
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Black Kite,Milvus migrans,5
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Common Tailorbird,Orthotomus sutorius,1
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Asian Tit,Parus cinereus,1
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Ashy Prinia,Prinia socialis,1
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Coppersmith Barbet,Psilopogon haemacephalus,1
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,White-cheeked Barbet,Psilopogon viridis,3
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Rose-ringed Parakeet,Psittacula krameri,10
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Red-whiskered Bulbul,Pycnonotus jocosus,5
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Spotted Dove,Spilopelia chinensis,10
+obsr538517,S38485930,2017-07-29,IN-KA,Bengaluru Urban,IISc Bangalore--Jubilee Gardens,L4327180,13.0205556,77.5705556,150,29700,1,4,Traveling,1,Shikra,Tachyspiza badia,1
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Common Myna,Acridotheres tristis,10
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Common Sandpiper,Actitis hypoleucos,1
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Oriental Skylark,Alauda gulgula,4
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Indian Spot-billed Duck,Anas poecilorhyncha,2
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Asian Openbill,Anastomus oscitans,8
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Graylag Goose,Anser anser,2
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Bar-headed Goose,Anser indicus,110
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Paddyfield Pipit,Anthus rufulus,2
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Great Egret,Ardea alba,9
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Gray Heron,Ardea cinerea,3
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Eastern Cattle-Egret,Ardea coromanda,7
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Medium Egret,Ardea intermedia,13
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Little Stint,Calidris minuta,25
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Calidris sp.,Calidris sp.,50
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Temminck's Stint,Calidris temminckii,1
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Greater Coucal,Centropus sinensis,1
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Pied Kingfisher,Ceryle rudis,1
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Asian Woolly-necked Stork,Ciconia episcopus,3
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Black Drongo,Dicrurus macrocercus,6
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Little Egret,Egretta garzetta,30
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,white egret sp.,Egretta/Ardea sp.,45
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Peregrine Falcon,Falco peregrinus,1
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Small Pratincole,Glareola lactea,10
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Indian Pied Starling,Gracupica contra,1
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Black-winged Stilt,Himantopus himantopus,8
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Wire-tailed Swallow,Hirundo smithii,1
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Little Cormorant,Microcarbo niger,16
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,White Wagtail,Motacilla alba,1
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Western Yellow Wagtail,Motacilla flava,13
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,White-browed Wagtail,Motacilla maderaspatensis,4
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Painted Stork,Mycteria leucocephala,8
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Black-hooded Oriole,Oriolus xanthornus,1
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Indian Peafowl,Pavo cristatus,5
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Great Cormorant,Phalacrocorax carbo,32
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Eurasian Spoonbill,Platalea leucorodia,3
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Knob-billed Duck,Sarkidiornis melanotos,9
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Spotted Dove,Spilopelia chinensis,8
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,River Tern,Sterna aurantia,200
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Brahminy Starling,Sturnia pagodarum,2
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Ruddy Shelduck,Tadorna ferruginea,9
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Little Ringed Plover,Thinornis dubius,1
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Wood Sandpiper,Tringa glareola,1
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Common Redshank,Tringa totanus,2
+obsr791936,S42456414,2018-02-03,IN-MP,Narmadapuram,"Madai, Madhya Pradesh, IN (22.576, 78.144)",L6813477,22.576295,78.1436017,51,61500,0.827,6,Traveling,1,Red-wattled Lapwing,Vanellus indicus,2
+obsr1181061,S49633773,2018-05-13,IN-KL,Idukki,Periyar Tiger Reserve--Kokkara,L8096272,9.5969397,77.1757538,15,28500,0.201,4,Traveling,1,Black-rumped Flameback,Dinopium benghalense,1
+obsr1181061,S49633773,2018-05-13,IN-KL,Idukki,Periyar Tiger Reserve--Kokkara,L8096272,9.5969397,77.1757538,15,28500,0.201,4,Traveling,1,Jungle Owlet,Glaucidium radiatum,1
+obsr1181061,S49633773,2018-05-13,IN-KL,Idukki,Periyar Tiger Reserve--Kokkara,L8096272,9.5969397,77.1757538,15,28500,0.201,4,Traveling,1,Southern Hill Myna,Gracula indica,3
+obsr1181061,S49633773,2018-05-13,IN-KL,Idukki,Periyar Tiger Reserve--Kokkara,L8096272,9.5969397,77.1757538,15,28500,0.201,4,Traveling,1,Purple-rumped Sunbird,Leptocoma zeylonica,1
+obsr1181061,S49633773,2018-05-13,IN-KL,Idukki,Periyar Tiger Reserve--Kokkara,L8096272,9.5969397,77.1757538,15,28500,0.201,4,Traveling,1,Rufous Woodpecker,Micropternus brachyurus,1
+obsr1181061,S49633773,2018-05-13,IN-KL,Idukki,Periyar Tiger Reserve--Kokkara,L8096272,9.5969397,77.1757538,15,28500,0.201,4,Traveling,1,Malabar Whistling-Thrush,Myophonus horsfieldii,1
+obsr1181061,S49633773,2018-05-13,IN-KL,Idukki,Periyar Tiger Reserve--Kokkara,L8096272,9.5969397,77.1757538,15,28500,0.201,4,Traveling,1,Black-hooded Oriole,Oriolus xanthornus,1
+obsr1181061,S49633773,2018-05-13,IN-KL,Idukki,Periyar Tiger Reserve--Kokkara,L8096272,9.5969397,77.1757538,15,28500,0.201,4,Traveling,1,Malabar Barbet,Psilopogon malabaricus,1
+obsr1181061,S49633773,2018-05-13,IN-KL,Idukki,Periyar Tiger Reserve--Kokkara,L8096272,9.5969397,77.1757538,15,28500,0.201,4,Traveling,1,White-cheeked Barbet,Psilopogon viridis,1
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Common Sandpiper,Actitis hypoleucos,1
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,White-breasted Waterhen,Amaurornis phoenicurus,2
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Indian Spot-billed Duck,Anas poecilorhyncha,4
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Oriental Darter,Anhinga melanogaster,2
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Great Egret,Ardea alba,1
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Gray Heron,Ardea cinerea,3
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Eastern Cattle-Egret,Ardea coromanda,5
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Medium Egret,Ardea intermedia,2
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Purple Heron,Ardea purpurea,1
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Indian Pond-Heron,Ardeola grayii,11
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Yellow-billed Babbler,Argya affinis,4
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Rock Pigeon,Columba livia,2
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Indian Roller,Coracias benghalensis,1
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Asian Palm Swift,Cypsiurus balasiensis,3
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Little Egret,Egretta garzetta,1
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Eurasian Coot,Fulica atra,3
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Eurasian Moorhen,Gallinula chloropus,2
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,White-throated Kingfisher,Halcyon smyrnensis,1
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Black-winged Stilt,Himantopus himantopus,2
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Barn Swallow,Hirundo rustica,4
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Blue-tailed Bee-eater,Merops philippinus,2
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Little Cormorant,Microcarbo niger,3
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Black-crowned Night Heron,Nycticorax nycticorax,1
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Indian Peafowl,Pavo cristatus,3
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Spot-billed Pelican,Pelecanus philippensis,2
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Great Cormorant,Phalacrocorax carbo,2
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Gray-headed Swamphen,Porphyrio poliocephalus,5
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Red-vented Bulbul,Pycnonotus cafer,2
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Garganey,Spatula querquedula,1
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Little Grebe,Tachybaptus ruficollis,4
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Shikra,Tachyspiza badia,1
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Little Ringed Plover,Thinornis dubius,2
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Wood Sandpiper,Tringa glareola,2
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Green Sandpiper,Tringa ochropus,2
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Red-wattled Lapwing,Vanellus indicus,4
+obsr1196326,S53365023,2019-03-03,IN-TN,Coimbatore,Kannampalayam Lake   கண்ணம்பாளயம்  குளம்,L1944817,11.0021973,77.0946693,23,42180,0.8,2,Traveling,1,Yellow-wattled Lapwing,Vanellus malabaricus,3
+obsr669031,S57384822,2019-06-15,IN-KL,Kannur,Chirakkal Chira,L5323503,11.9140523,75.3564173,15,41040,1.477,1,Traveling,1,Indian Pond-Heron,Ardeola grayii,2
+obsr669031,S57384822,2019-06-15,IN-KL,Kannur,Chirakkal Chira,L5323503,11.9140523,75.3564173,15,41040,1.477,1,Traveling,1,Lesser Whistling-Duck,Dendrocygna javanica,1
+obsr669031,S57384822,2019-06-15,IN-KL,Kannur,Chirakkal Chira,L5323503,11.9140523,75.3564173,15,41040,1.477,1,Traveling,1,White-throated Kingfisher,Halcyon smyrnensis,1
+obsr669031,S57384822,2019-06-15,IN-KL,Kannur,Chirakkal Chira,L5323503,11.9140523,75.3564173,15,41040,1.477,1,Traveling,1,Brahminy Kite,Haliastur indus,2
+obsr669031,S57384822,2019-06-15,IN-KL,Kannur,Chirakkal Chira,L5323503,11.9140523,75.3564173,15,41040,1.477,1,Traveling,1,Bronze-winged Jacana,Metopidius indicus,3
+obsr669031,S57384822,2019-06-15,IN-KL,Kannur,Chirakkal Chira,L5323503,11.9140523,75.3564173,15,41040,1.477,1,Traveling,1,Little Cormorant,Microcarbo niger,2
+obsr669031,S57384822,2019-06-15,IN-KL,Kannur,Chirakkal Chira,L5323503,11.9140523,75.3564173,15,41040,1.477,1,Traveling,1,Black Kite,Milvus migrans,1
+obsr669031,S57384822,2019-06-15,IN-KL,Kannur,Chirakkal Chira,L5323503,11.9140523,75.3564173,15,41040,1.477,1,Traveling,1,Gray-headed Swamphen,Porphyrio poliocephalus,6
+obsr685682,S64774429,2020-02-16,IN-HR,Faridabad,Mangar Bani,L3827257,28.385614,77.1540856,30,34140,1,1,Traveling,1,Crested Serpent-Eagle,Spilornis cheela,1
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Common Myna,Acridotheres tristis,6
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,White-breasted Waterhen,Amaurornis phoenicurus,2
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Indian Spot-billed Duck,Anas poecilorhyncha,16
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Oriental Darter,Anhinga melanogaster,4
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Great Egret,Ardea alba,20
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Gray Heron,Ardea cinerea,12
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Medium Egret,Ardea intermedia,8
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Purple Heron,Ardea purpurea,2
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Indian Pond-Heron,Ardeola grayii,16
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Ashy Woodswallow,Artamus fuscus,8
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Whiskered Tern,Chlidonias hybrida,200
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Brown-headed Gull,Chroicocephalus brunnicephalus,80
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Large-billed Crow,Corvus macrorhynchos,2
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Asian Palm Swift,Cypsiurus balasiensis,4
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Lesser Whistling-Duck,Dendrocygna javanica,6
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Black Drongo,Dicrurus macrocercus,2
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Black-rumped Flameback,Dinopium benghalense,2
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Little Egret,Egretta garzetta,30
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Eurasian Coot,Fulica atra,4
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Gull-billed Tern,Gelochelidon nilotica,3
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,White-throated Kingfisher,Halcyon smyrnensis,1
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Brahminy Kite,Haliastur indus,17
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Black-winged Stilt,Himantopus himantopus,55
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Barn Swallow,Hirundo rustica,26
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Pheasant-tailed Jacana,Hydrophasianus chirurgus,16
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Caspian Tern,Hydroprogne caspia,1
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Black-tailed Godwit,Limosa limosa,11
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Blue-tailed Bee-eater,Merops philippinus,6
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Bronze-winged Jacana,Metopidius indicus,3
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Little Cormorant,Microcarbo niger,45
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Western Yellow Wagtail,Motacilla flava,5
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Cotton Pygmy-Goose,Nettapus coromandelianus,75
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Common Tailorbird,Orthotomus sutorius,1
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Osprey,Pandion haliaetus,1
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Spot-billed Pelican,Pelecanus philippensis,3
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Indian Cormorant,Phalacrocorax fuscicollis,35
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Greater Flamingo,Phoenicopterus roseus,3
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Pacific Golden-Plover,Pluvialis fulva,2
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Gray-headed Swamphen,Porphyrio poliocephalus,8
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Plain Prinia,Prinia inornata,4
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Garganey,Spatula querquedula,55
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Common Tern,Sterna hirundo,2
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Little Tern,Sternula albifrons,4
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Little Grebe,Tachybaptus ruficollis,12
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Black-headed Ibis,Threskiornis melanocephalus,11
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Wood Sandpiper,Tringa glareola,18
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Common Greenshank,Tringa nebularia,8
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Marsh Sandpiper,Tringa stagnatilis,6
+obsr668639,S65924261,2020-03-17,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,90,58200,2,4,Traveling,1,Red-wattled Lapwing,Vanellus indicus,4
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Common Myna,Acridotheres tristis,6
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Jungle Babbler,Argya striata,9
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Greater Coucal,Centropus sinensis,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Rock Pigeon,Columba livia,7
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Indian Robin,Copsychus fulicatus,2
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Oriental Magpie-Robin,Copsychus saularis,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Large-billed Crow,Corvus macrorhynchos,5
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Gray-headed Canary-Flycatcher,Culicicapa ceylonensis,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Rufous Treepie,Dendrocitta vagabunda,2
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Pale-billed Flowerpecker,Dicaeum erythrorhynchos,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Ashy Drongo,Dicrurus leucophaeus,2
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Taiga Flycatcher,Ficedula albicilla,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Red Junglefowl,Gallus gallus,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Jungle Owlet,Glaucidium radiatum,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Indian Pied Starling,Gracupica contra,2
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,White-throated Kingfisher,Halcyon smyrnensis,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Bar-winged Flycatcher-shrike,Hemipus picatus,4
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Black Kite,Milvus migrans,2
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Blue Whistling-Thrush,Myophonus caeruleus,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Indian Gray Hornbill,Ocyceros birostris,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Brown Rock Chat,Oenanthe fusca,2
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Black-hooded Oriole,Oriolus xanthornus,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Common Tailorbird,Orthotomus sutorius,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Gray Francolin,Ortygornis pondicerianus,5
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Thick-billed Flowerpecker,Pachyglossa agilis,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Asian Tit,Parus cinereus,2
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,House Sparrow,Passer domesticus,10
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Indian Peafowl,Pavo cristatus,2
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Small Minivet,Pericrocotus cinnamomeus,6
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Long-tailed Minivet,Pericrocotus ethologus,5
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Greenish Warbler,Phylloscopus trochiloides,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Gray-hooded Warbler,Phylloscopus xanthoschistos,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Gray-breasted Prinia,Prinia hodgsonii,6
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Brown-headed Barbet,Psilopogon zeylanicus,2
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Plum-headed Parakeet,Psittacula cyanocephala,4
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Red-vented Bulbul,Pycnonotus cafer,2
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Red-whiskered Bulbul,Pycnonotus jocosus,4
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Himalayan Bulbul,Pycnonotus leucogenys,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,White-throated Fantail,Rhipidura albicollis,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Gray Bushchat,Saxicola ferreus,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Indian Nuthatch,Sitta castanea,6
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Spotted Dove,Spilopelia chinensis,4
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Oriental Turtle-Dove,Streptopelia orientalis,6
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Common Woodshrike,Tephrodornis pondicerianus,4
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Red-wattled Lapwing,Vanellus indicus,1
+obsr456859,S75809066,2020-11-03,IN-UL,Nainital,Chhoti Haldwani,L5432680,29.2870165,79.3318838,45,48600,0.5,2,Traveling,1,Indian White-eye,Zosterops palpebrosus,6
+obsr604291,S77007738,2020-12-03,IN-MH,Mumbai,"Dinshaw Master Road, Dadar Parsi Colony, Mumbai",L8676866,19.0179622,72.8519792,80,61200,,1,Stationary,1,Common Myna,Acridotheres tristis,2
+obsr604291,S77007738,2020-12-03,IN-MH,Mumbai,"Dinshaw Master Road, Dadar Parsi Colony, Mumbai",L8676866,19.0179622,72.8519792,80,61200,,1,Stationary,1,Little Swift,Apus affinis,6
+obsr604291,S77007738,2020-12-03,IN-MH,Mumbai,"Dinshaw Master Road, Dadar Parsi Colony, Mumbai",L8676866,19.0179622,72.8519792,80,61200,,1,Stationary,1,Eastern Cattle-Egret,Ardea coromanda,5
+obsr604291,S77007738,2020-12-03,IN-MH,Mumbai,"Dinshaw Master Road, Dadar Parsi Colony, Mumbai",L8676866,19.0179622,72.8519792,80,61200,,1,Stationary,1,Rock Pigeon,Columba livia,60
+obsr604291,S77007738,2020-12-03,IN-MH,Mumbai,"Dinshaw Master Road, Dadar Parsi Colony, Mumbai",L8676866,19.0179622,72.8519792,80,61200,,1,Stationary,1,Large-billed Crow,Corvus macrorhynchos,10
+obsr604291,S77007738,2020-12-03,IN-MH,Mumbai,"Dinshaw Master Road, Dadar Parsi Colony, Mumbai",L8676866,19.0179622,72.8519792,80,61200,,1,Stationary,1,House Crow,Corvus splendens,70
+obsr604291,S77007738,2020-12-03,IN-MH,Mumbai,"Dinshaw Master Road, Dadar Parsi Colony, Mumbai",L8676866,19.0179622,72.8519792,80,61200,,1,Stationary,1,Pallas's Gull,Ichthyaetus ichthyaetus,2
+obsr604291,S77007738,2020-12-03,IN-MH,Mumbai,"Dinshaw Master Road, Dadar Parsi Colony, Mumbai",L8676866,19.0179622,72.8519792,80,61200,,1,Stationary,1,Black Kite,Milvus migrans,20
+obsr604291,S77007738,2020-12-03,IN-MH,Mumbai,"Dinshaw Master Road, Dadar Parsi Colony, Mumbai",L8676866,19.0179622,72.8519792,80,61200,,1,Stationary,1,Black-crowned Night Heron,Nycticorax nycticorax,2
+obsr604291,S77007738,2020-12-03,IN-MH,Mumbai,"Dinshaw Master Road, Dadar Parsi Colony, Mumbai",L8676866,19.0179622,72.8519792,80,61200,,1,Stationary,1,House Sparrow,Passer domesticus,15
+obsr604291,S77007738,2020-12-03,IN-MH,Mumbai,"Dinshaw Master Road, Dadar Parsi Colony, Mumbai",L8676866,19.0179622,72.8519792,80,61200,,1,Stationary,1,Coppersmith Barbet,Psilopogon haemacephalus,1
+obsr604291,S77007738,2020-12-03,IN-MH,Mumbai,"Dinshaw Master Road, Dadar Parsi Colony, Mumbai",L8676866,19.0179622,72.8519792,80,61200,,1,Stationary,1,Alexandrine Parakeet,Psittacula eupatria,25
+obsr604291,S77007738,2020-12-03,IN-MH,Mumbai,"Dinshaw Master Road, Dadar Parsi Colony, Mumbai",L8676866,19.0179622,72.8519792,80,61200,,1,Stationary,1,Rose-ringed Parakeet,Psittacula krameri,100
+obsr1978759,S81058968,2021-02-13,IN-JK,Jammu,"Unnamed Road, Jammu (32.718, 74.838)",L13607157,32.7175409,74.8376222,174,54480,3.184,2,Traveling,1,Eastern Cattle-Egret,Ardea coromanda,
+obsr1978759,S81058968,2021-02-13,IN-JK,Jammu,"Unnamed Road, Jammu (32.718, 74.838)",L13607157,32.7175409,74.8376222,174,54480,3.184,2,Traveling,1,House Crow,Corvus splendens,
+obsr1978759,S81058968,2021-02-13,IN-JK,Jammu,"Unnamed Road, Jammu (32.718, 74.838)",L13607157,32.7175409,74.8376222,174,54480,3.184,2,Traveling,1,Black-winged Kite,Elanus caeruleus,
+obsr1978759,S81058968,2021-02-13,IN-JK,Jammu,"Unnamed Road, Jammu (32.718, 74.838)",L13607157,32.7175409,74.8376222,174,54480,3.184,2,Traveling,1,Ashy-crowned Sparrow-Lark,Eremopterix griseus,
+obsr1978759,S81058968,2021-02-13,IN-JK,Jammu,"Unnamed Road, Jammu (32.718, 74.838)",L13607157,32.7175409,74.8376222,174,54480,3.184,2,Traveling,1,Crested Lark,Galerida cristata,6
+obsr1978759,S81058968,2021-02-13,IN-JK,Jammu,"Unnamed Road, Jammu (32.718, 74.838)",L13607157,32.7175409,74.8376222,174,54480,3.184,2,Traveling,1,Booted Eagle,Hieraaetus pennatus,
+obsr1978759,S81058968,2021-02-13,IN-JK,Jammu,"Unnamed Road, Jammu (32.718, 74.838)",L13607157,32.7175409,74.8376222,174,54480,3.184,2,Traveling,1,Black Kite,Milvus migrans,1
+obsr1978759,S81058968,2021-02-13,IN-JK,Jammu,"Unnamed Road, Jammu (32.718, 74.838)",L13607157,32.7175409,74.8376222,174,54480,3.184,2,Traveling,1,White Wagtail,Motacilla alba,
+obsr1978759,S81058968,2021-02-13,IN-JK,Jammu,"Unnamed Road, Jammu (32.718, 74.838)",L13607157,32.7175409,74.8376222,174,54480,3.184,2,Traveling,1,Egyptian Vulture,Neophron percnopterus,
+obsr1978759,S81058968,2021-02-13,IN-JK,Jammu,"Unnamed Road, Jammu (32.718, 74.838)",L13607157,32.7175409,74.8376222,174,54480,3.184,2,Traveling,1,Spotted Dove,Spilopelia chinensis,
+obsr1978759,S81058968,2021-02-13,IN-JK,Jammu,"Unnamed Road, Jammu (32.718, 74.838)",L13607157,32.7175409,74.8376222,174,54480,3.184,2,Traveling,1,Eurasian Collared-Dove,Streptopelia decaocto,
+obsr1978759,S81058968,2021-02-13,IN-JK,Jammu,"Unnamed Road, Jammu (32.718, 74.838)",L13607157,32.7175409,74.8376222,174,54480,3.184,2,Traveling,1,Little Ringed Plover,Thinornis dubius,1
+obsr1978759,S81058968,2021-02-13,IN-JK,Jammu,"Unnamed Road, Jammu (32.718, 74.838)",L13607157,32.7175409,74.8376222,174,54480,3.184,2,Traveling,1,Common Hoopoe,Upupa epops,
+obsr1978759,S81058968,2021-02-13,IN-JK,Jammu,"Unnamed Road, Jammu (32.718, 74.838)",L13607157,32.7175409,74.8376222,174,54480,3.184,2,Traveling,1,White-tailed Lapwing,Vanellus leucurus,1
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Common Myna,Acridotheres tristis,3
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Common Iora,Aegithina tiphia,2
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Eastern Red-rumped Swallow,Cecropis daurica,2
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Purple Sunbird,Cinnyris asiaticus,2
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Indian Roller,Coracias benghalensis,1
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Indian Cuckooshrike,Coracina macei,2
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Large-billed Crow,Corvus macrorhynchos,2
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Tickell's Blue Flycatcher,Cyornis tickelliae,1
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Rufous Treepie,Dendrocitta vagabunda,1
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Orange-headed Thrush,Geokichla citrina,1
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Jungle Owlet,Glaucidium radiatum,1
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Indian Pied Starling,Gracupica contra,4
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Asian Green Bee-eater,Merops orientalis,2
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Black-hooded Oriole,Oriolus xanthornus,1
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Common Tailorbird,Orthotomus sutorius,1
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Greenish Warbler,Phylloscopus trochiloides,1
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Ashy Prinia,Prinia socialis,1
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Coppersmith Barbet,Psilopogon haemacephalus,2
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Brown-headed Barbet,Psilopogon zeylanicus,2
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Red-vented Bulbul,Pycnonotus cafer,3
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Spotted Dove,Spilopelia chinensis,2
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Tickell's Thrush,Turdus unicolor,3
+obsr959981,S82615160,2021-03-02,IN-MP,Mandla,Flame of the Forest Safari Lodge,L10000967,22.3444693,80.4552627,29,56580,0.5,1,Traveling,1,Indian White-eye,Zosterops palpebrosus,2
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Common Myna,Acridotheres tristis,35
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Common Iora,Aegithina tiphia,1
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Crimson Sunbird,Aethopyga siparaja,2
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Oriental Pied-Hornbill,Anthracoceros albirostris,4
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Greater Coucal,Centropus sinensis,1
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Yellow-breasted Greenfinch,Chloris spinoides,8
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Greater Flameback,Chrysocolaptes guttacristatus,2
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Large-billed Crow,Corvus macrorhynchos,5
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,House Crow,Corvus splendens,15
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Gray-headed Canary-Flycatcher,Culicicapa ceylonensis,8
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Rufous Treepie,Dendrocitta vagabunda,4
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Hair-crested Drongo,Dicrurus hottentottus,15
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Ashy Drongo,Dicrurus leucophaeus,2
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Black Drongo,Dicrurus macrocercus,2
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Black-rumped Flameback,Dinopium benghalense,4
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Taiga Flycatcher,Ficedula albicilla,2
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Red Junglefowl,Gallus gallus,4
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,White-crested Laughingthrush,Garrulax leucolophus,10
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Bar-winged Flycatcher-shrike,Hemipus picatus,5
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Wire-tailed Swallow,Hirundo smithii,10
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Long-tailed Shrike,Lanius schach,1
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Scaly-breasted Munia,Lonchura punctulata,1
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Black Kite,Milvus migrans,5
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Gray Wagtail,Motacilla cinerea,2
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Blue Whistling-Thrush,Myophonus caeruleus,2
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Blue-bearded Bee-eater,Nyctyornis athertoni,1
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Indian Gray Hornbill,Ocyceros birostris,2
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Brown Rock Chat,Oenanthe fusca,3
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Maroon Oriole,Oriolus traillii,1
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Black-hooded Oriole,Oriolus xanthornus,2
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Common Tailorbird,Orthotomus sutorius,2
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Asian Tit,Parus cinereus,15
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Long-tailed Minivet,Pericrocotus ethologus,2
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Hume's Warbler,Phylloscopus humei,2
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Gray-hooded Warbler,Phylloscopus xanthoschistos,4
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Gray-headed Woodpecker,Picus canus,2
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Gray-breasted Prinia,Prinia hodgsonii,4
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Ashy Prinia,Prinia socialis,2
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Coppersmith Barbet,Psilopogon haemacephalus,2
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Lineated Barbet,Psilopogon lineatus,4
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Brown-headed Barbet,Psilopogon zeylanicus,4
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Plum-headed Parakeet,Psittacula cyanocephala,25
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Alexandrine Parakeet,Psittacula eupatria,5
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Rose-ringed Parakeet,Psittacula krameri,30
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Dusky Crag-Martin,Ptyonoprogne concolor,10
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Red-vented Bulbul,Pycnonotus cafer,50
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Himalayan Bulbul,Pycnonotus leucogenys,25
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,White-throated Fantail,Rhipidura albicollis,6
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Gray Bushchat,Saxicola ferreus,2
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Chestnut-bellied Nuthatch,Sitta cinnamoventris,10
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Velvet-fronted Nuthatch,Sitta frontalis,5
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Spotted Dove,Spilopelia chinensis,10
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Red-billed Blue-Magpie,Urocissa erythroryncha,4
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Red-wattled Lapwing,Vanellus indicus,4
+obsr1569989,S97505385,2021-11-13,IN-UL,Dehradun,Indian Institute of Petroleum,L3930263,30.272339,78.071967,60,29580,2,1,Traveling,1,Indian White-eye,Zosterops palpebrosus,25
+obsr888841,S103477149,2022-02-22,IN-MH,Akola,"ram nagar, Akola",L5562124,20.7112318,77.0136264,65,28200,,1,Stationary,1,Purple Sunbird,Cinnyris asiaticus,1
+obsr888841,S103477149,2022-02-22,IN-MH,Akola,"ram nagar, Akola",L5562124,20.7112318,77.0136264,65,28200,,1,Stationary,1,Rock Pigeon,Columba livia,2
+obsr888841,S103477149,2022-02-22,IN-MH,Akola,"ram nagar, Akola",L5562124,20.7112318,77.0136264,65,28200,,1,Stationary,1,Indian Robin,Copsychus fulicatus,1
+obsr888841,S103477149,2022-02-22,IN-MH,Akola,"ram nagar, Akola",L5562124,20.7112318,77.0136264,65,28200,,1,Stationary,1,Oriental Magpie-Robin,Copsychus saularis,1
+obsr888841,S103477149,2022-02-22,IN-MH,Akola,"ram nagar, Akola",L5562124,20.7112318,77.0136264,65,28200,,1,Stationary,1,Asian Koel,Eudynamys scolopaceus,3
+obsr888841,S103477149,2022-02-22,IN-MH,Akola,"ram nagar, Akola",L5562124,20.7112318,77.0136264,65,28200,,1,Stationary,1,Purple-rumped Sunbird,Leptocoma zeylonica,2
+obsr888841,S103477149,2022-02-22,IN-MH,Akola,"ram nagar, Akola",L5562124,20.7112318,77.0136264,65,28200,,1,Stationary,1,Gray Wagtail,Motacilla cinerea,1
+obsr888841,S103477149,2022-02-22,IN-MH,Akola,"ram nagar, Akola",L5562124,20.7112318,77.0136264,65,28200,,1,Stationary,1,Brown Rock Chat,Oenanthe fusca,1
+obsr888841,S103477149,2022-02-22,IN-MH,Akola,"ram nagar, Akola",L5562124,20.7112318,77.0136264,65,28200,,1,Stationary,1,Common Tailorbird,Orthotomus sutorius,1
+obsr888841,S103477149,2022-02-22,IN-MH,Akola,"ram nagar, Akola",L5562124,20.7112318,77.0136264,65,28200,,1,Stationary,1,Small Minivet,Pericrocotus cinnamomeus,6
+obsr888841,S103477149,2022-02-22,IN-MH,Akola,"ram nagar, Akola",L5562124,20.7112318,77.0136264,65,28200,,1,Stationary,1,Laughing Dove,Spilopelia senegalensis,4
+obsr888841,S103477149,2022-02-22,IN-MH,Akola,"ram nagar, Akola",L5562124,20.7112318,77.0136264,65,28200,,1,Stationary,1,Brahminy Starling,Sturnia pagodarum,1
+obsr888841,S103477149,2022-02-22,IN-MH,Akola,"ram nagar, Akola",L5562124,20.7112318,77.0136264,65,28200,,1,Stationary,1,Shikra,Tachyspiza badia,1
+obsr888841,S103477149,2022-02-22,IN-MH,Akola,"ram nagar, Akola",L5562124,20.7112318,77.0136264,65,28200,,1,Stationary,1,Red-wattled Lapwing,Vanellus indicus,1
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Black-throated Tit,Aegithalos concinnus,3
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Yellow-breasted Greenfinch,Chloris spinoides,14
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Large-billed Crow,Corvus macrorhynchos,18
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Ultramarine Flycatcher,Ficedula superciliaris,1
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Black Francolin,Francolinus francolinus,1
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Himalayan Griffon,Gyps himalayensis,8
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Rufous Sibia,Heterophasia capistrata,2
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Brownish-flanked Bush Warbler,Horornis fortipes,1
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Black Bulbul,Hypsipetes leucocephalus,6
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Gray Wagtail,Motacilla cinerea,1
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Blue Whistling-Thrush,Myophonus caeruleus,2
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Green-backed Tit,Parus monticolus,3
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Russet Sparrow,Passer cinnamomeus,9
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Plumbeous Redstart,Phoenicurus fuliginosus,2
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,White-capped Redstart,Phoenicurus leucocephalus,1
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Western Crowned Warbler,Phylloscopus occipitalis,1
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Gray-hooded Warbler,Phylloscopus xanthoschistos,3
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Himalayan Prinia,Prinia crinigera,1
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Great Barbet,Psilopogon virens,4
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Slaty-headed Parakeet,Psittacula himalayana,14
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Himalayan Bulbul,Pycnonotus leucogenys,19
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Gray Bushchat,Saxicola ferreus,3
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Oriental Turtle-Dove,Streptopelia orientalis,1
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Streaked Laughingthrush,Trochalopteron lineatum,4
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Yellow-billed Blue-Magpie,Urocissa flavirostris,11
+obsr1224305,S107995950,2022-04-25,IN-HP,Kullu,"Tirthan Valley, Himachal Pradesh",L3231420,31.6046513,77.4964762,156,21420,1.042,1,Traveling,1,Whiskered Yuhina,Yuhina flavicollis,1
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Great Egret,Ardea alba,2
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Gray Heron,Ardea cinerea,1
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Eastern Cattle-Egret,Ardea coromanda,6
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Purple Heron,Ardea purpurea,1
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Indian Pond-Heron,Ardeola grayii,2
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Greater Coucal,Centropus sinensis,1
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Rufous Treepie,Dendrocitta vagabunda,1
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Black Drongo,Dicrurus macrocercus,2
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Peregrine Falcon,Falco peregrinus,1
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Brahminy Kite,Haliastur indus,3
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Black Kite,Milvus migrans,6
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Painted Stork,Mycteria leucocephala,2
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Spot-billed Pelican,Pelecanus philippensis,3
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Great Cormorant,Phalacrocorax carbo,6
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Indian Cormorant,Phalacrocorax fuscicollis,2
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Glossy Ibis,Plegadis falcinellus,4
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Gray-headed Swamphen,Porphyrio poliocephalus,10
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Rose-ringed Parakeet,Psittacula krameri,2
+obsr1606632,S130637199,2022-11-02,IN-KA,Bengaluru Urban,Nagawara Kere / Nagavara Kere,L3118470,13.0450617,77.6076365,130,32400,,1,Stationary,1,Black-headed Ibis,Threskiornis melanocephalus,2
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Jungle Myna,Acridotheres fuscus,12
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Bank Myna,Acridotheres ginginianus,2
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Great Myna,Acridotheres grandis,2
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Common Myna,Acridotheres tristis,36
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Northern Pintail,Anas acuta,30
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Indian Spot-billed Duck,Anas poecilorhyncha,6
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Asian Openbill,Anastomus oscitans,13
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Oriental Darter,Anhinga melanogaster,4
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Rosy Pipit,Anthus roseatus,1
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Paddyfield Pipit,Anthus rufulus,2
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Great Egret,Ardea alba,1
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Eastern Cattle-Egret,Ardea coromanda,11
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Medium Egret,Ardea intermedia,7
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Purple Heron,Ardea purpurea,2
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Indian Pond-Heron,Ardeola grayii,6
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Ferruginous Duck,Aythya nyroca,6
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Eastern Red-rumped Swallow,Cecropis daurica,30
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Zitting Cisticola,Cisticola juncidis,7
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Rock Pigeon,Columba livia,2
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Large-billed Crow,Corvus macrorhynchos,4
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,House Crow,Corvus splendens,30
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Asian Palm Swift,Cypsiurus balasiensis,30
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Fulvous Whistling-Duck,Dendrocygna bicolor,100
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Lesser Whistling-Duck,Dendrocygna javanica,300
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Black Drongo,Dicrurus macrocercus,20
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,white egret sp.,Egretta/Ardea sp.,300
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Eurasian Kestrel,Falco tinnunculus,1
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Indian Pied Starling,Gracupica contra,20
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,White-throated Kingfisher,Halcyon smyrnensis,4
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Booted Eagle,Hieraaetus pennatus,2
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Barn Swallow,Hirundo rustica,250
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Pheasant-tailed Jacana,Hydrophasianus chirurgus,5
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Brown Shrike,Lanius cristatus,3
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Gray-backed Shrike,Lanius tephronotus,1
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Greater Adjutant,Leptoptilos dubius,1
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Lesser Adjutant,Leptoptilos javanicus,4
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Gadwall,Mareca strepera,50
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Striated Grassbird,Megalurus palustris,10
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Asian Green Bee-eater,Merops orientalis,2
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Bronze-winged Jacana,Metopidius indicus,6
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Little Cormorant,Microcarbo niger,18
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Black Kite,Milvus migrans,45
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Citrine Wagtail,Motacilla citreola,50
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Cotton Pygmy-Goose,Nettapus coromandelianus,40
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,House Sparrow,Passer domesticus,3
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Dusky Warbler,Phylloscopus fuscatus,6
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Glossy Ibis,Plegadis falcinellus,100
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Bengal Bushlark,Plocealauda assamica,8
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Gray-headed Swamphen,Porphyrio poliocephalus,30
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Plain Prinia,Prinia inornata,17
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Rose-ringed Parakeet,Psittacula krameri,5
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Red-vented Bulbul,Pycnonotus cafer,4
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Gray-throated Martin,Riparia chinensis,40
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Siberian Stonechat,Saxicola maurus,40
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Spotted Dove,Spilopelia chinensis,7
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Chestnut-tailed Starling,Sturnia malabarica,4
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Little Grebe,Tachybaptus ruficollis,20
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Common Hoopoe,Upupa epops,1
+obsr3503750,S125288914,2023-01-03,IN-AS,Kamrup Metropolitan,Deepor Beel--Azara,L21924847,26.1192183,91.6275318,186,25620,1.11,2,Traveling,1,Red-wattled Lapwing,Vanellus indicus,20
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Common Myna,Acridotheres tristis,15
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Jungle Babbler,Argya striata,3
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Purple Sunbird,Cinnyris asiaticus,3
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Rock Pigeon,Columba livia,25
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Large-billed Crow,Corvus macrorhynchos,1
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Black Drongo,Dicrurus macrocercus,5
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Black-rumped Flameback,Dinopium benghalense,1
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Indian Silverbill,Euodice malabarica,1
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Black Kite,Milvus migrans,7
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Painted Stork,Mycteria leucocephala,1
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Common Tailorbird,Orthotomus sutorius,2
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Indian Peafowl,Pavo cristatus,2
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Oriental Honey-buzzard,Pernis ptilorhynchus,1
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Rose-ringed Parakeet,Psittacula krameri,4
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Dusky Crag-Martin,Ptyonoprogne concolor,3
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Red-vented Bulbul,Pycnonotus cafer,1
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,White-eared Bulbul,Pycnonotus leucotis,1
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Eurasian Collared-Dove,Streptopelia decaocto,2
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Black-headed Ibis,Threskiornis melanocephalus,1
+obsr1202258,S151999329,2023-10-12,IN-GJ,Ahmedabad,Jayantilal Park,L11985558,23.0279275,72.4910029,56,58260,,4,Stationary,1,Red-wattled Lapwing,Vanellus indicus,3
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Common Sandpiper,Actitis hypoleucos,6
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Kentish Plover,Anarhynchus alexandrinus,5
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Tibetan Sand-Plover,Anarhynchus atrifrons,2
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Northern Pintail,Anas acuta,200
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Green-winged Teal,Anas crecca,500
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Indian Spot-billed Duck,Anas poecilorhyncha,2
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Asian Openbill,Anastomus oscitans,2
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Graylag Goose,Anser anser,21
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Bar-headed Goose,Anser indicus,45
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Tawny Pipit,Anthus campestris,5
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Paddyfield Pipit,Anthus rufulus,6
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Great Egret,Ardea alba,3
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Gray Heron,Ardea cinerea,1
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Medium Egret,Ardea intermedia,6
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Purple Heron,Ardea purpurea,3
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Indian Pond-Heron,Ardeola grayii,4
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Tufted Duck,Aythya fuligula,3
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Little Stint,Calidris minuta,16
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Ruff,Calidris pugnax,12
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Temminck's Stint,Calidris temminckii,3
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Common Ringed Plover,Charadrius hiaticula,2
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Whiskered Tern,Chlidonias hybrida,8
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Black-headed Gull,Chroicocephalus ridibundus,2
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Asian Woolly-necked Stork,Ciconia episcopus,1
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Rock Pigeon,Columba livia,6
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Lesser Whistling-Duck,Dendrocygna javanica,1
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Little Egret,Egretta garzetta,5
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Western Reef-Heron,Egretta gularis,1
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Common Snipe,Gallinago gallinago,1
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Gull-billed Tern,Gelochelidon nilotica,2
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Small Pratincole,Glareola lactea,98
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Collared Pratincole,Glareola pratincola,50
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Common Crane,Grus grus,2
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Black-winged Stilt,Himantopus himantopus,7
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Pheasant-tailed Jacana,Hydrophasianus chirurgus,20
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Pallas's Gull,Ichthyaetus ichthyaetus,2
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Black-tailed Godwit,Limosa limosa,13
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Eurasian Wigeon,Mareca penelope,8
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Gadwall,Mareca strepera,5
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Little Cormorant,Microcarbo niger,4
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Citrine Wagtail,Motacilla citreola,19
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Western Yellow Wagtail,Motacilla flava,50
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Cotton Pygmy-Goose,Nettapus coromandelianus,1
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Eurasian Curlew,Numenius arquata,1
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Gray Francolin,Ortygornis pondicerianus,2
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Osprey,Pandion haliaetus,1
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Dalmatian Pelican,Pelecanus crispus,2
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Great Cormorant,Phalacrocorax carbo,1
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Greater Flamingo,Phoenicopterus roseus,4
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Eurasian Spoonbill,Platalea leucorodia,7
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Glossy Ibis,Plegadis falcinellus,15
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Pacific Golden-Plover,Pluvialis fulva,11
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Chestnut-bellied Sandgrouse,Pterocles exustus,11
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Knob-billed Duck,Sarkidiornis melanotos,1
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Northern Shoveler,Spatula clypeata,39
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Garganey,Spatula querquedula,6
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,River Tern,Sterna aurantia,3
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Little Grebe,Tachybaptus ruficollis,2
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Ruddy Shelduck,Tadorna ferruginea,6
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Little Ringed Plover,Thinornis dubius,2
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Black-headed Ibis,Threskiornis melanocephalus,2
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Spotted Redshank,Tringa erythropus,4
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Wood Sandpiper,Tringa glareola,16
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Common Greenshank,Tringa nebularia,1
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Green Sandpiper,Tringa ochropus,2
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Marsh Sandpiper,Tringa stagnatilis,4
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Common Redshank,Tringa totanus,1
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,Red-wattled Lapwing,Vanellus indicus,9
+obsr2766279,S155145547,2023-11-25,IN-GJ,Ahmedabad,Nalsarovar--Boating Point,L12809621,22.8193049,72.0436406,50,50940,,2,Stationary,1,White-tailed Lapwing,Vanellus leucurus,1
+obsr2323425,S158613703,2024-01-11,IN-GJ,Kheda,Meldi Mata Temple,L21906932,22.7719554,72.5946218,20,37860,0.311,1,Traveling,1,Graylag Goose,Anser anser,500
+obsr2323425,S158613703,2024-01-11,IN-GJ,Kheda,Meldi Mata Temple,L21906932,22.7719554,72.5946218,20,37860,0.311,1,Traveling,1,Great Egret,Ardea alba,2
+obsr2323425,S158613703,2024-01-11,IN-GJ,Kheda,Meldi Mata Temple,L21906932,22.7719554,72.5946218,20,37860,0.311,1,Traveling,1,Lesser Whistling-Duck,Dendrocygna javanica,3
+obsr2323425,S158613703,2024-01-11,IN-GJ,Kheda,Meldi Mata Temple,L21906932,22.7719554,72.5946218,20,37860,0.311,1,Traveling,1,Little Egret,Egretta garzetta,3
+obsr2323425,S158613703,2024-01-11,IN-GJ,Kheda,Meldi Mata Temple,L21906932,22.7719554,72.5946218,20,37860,0.311,1,Traveling,1,Black-winged Stilt,Himantopus himantopus,25
+obsr2323425,S158613703,2024-01-11,IN-GJ,Kheda,Meldi Mata Temple,L21906932,22.7719554,72.5946218,20,37860,0.311,1,Traveling,1,Little Cormorant,Microcarbo niger,200
+obsr2323425,S158613703,2024-01-11,IN-GJ,Kheda,Meldi Mata Temple,L21906932,22.7719554,72.5946218,20,37860,0.311,1,Traveling,1,Western Yellow Wagtail,Motacilla flava,19
+obsr2323425,S158613703,2024-01-11,IN-GJ,Kheda,Meldi Mata Temple,L21906932,22.7719554,72.5946218,20,37860,0.311,1,Traveling,1,Northern Shoveler,Spatula clypeata,570
+obsr2323425,S158613703,2024-01-11,IN-GJ,Kheda,Meldi Mata Temple,L21906932,22.7719554,72.5946218,20,37860,0.311,1,Traveling,1,Marsh Sandpiper,Tringa stagnatilis,1
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Common Iora,Aegithina tiphia,2
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Little Spiderhunter,Arachnothera longirostra,1
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Indian Pond-Heron,Ardeola grayii,1
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Malabar Flameback,Chrysocolaptes socialis,1
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Oriental Magpie-Robin,Copsychus saularis,2
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Asian Palm Swift,Cypsiurus balasiensis,3
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Nilgiri Flowerpecker,Dicaeum concolor,2
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Ashy Drongo,Dicrurus leucophaeus,1
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Black-rumped Flameback,Dinopium benghalense,1
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Malabar Imperial-Pigeon,Ducula cuprea,2
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Gray Junglefowl,Gallus sonneratii,2
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Crimson-backed Sunbird,Leptocoma minima,4
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Purple-rumped Sunbird,Leptocoma zeylonica,2
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Malabar Gray Hornbill,Ocyceros griseus,1
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Common Tailorbird,Orthotomus sutorius,2
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Orange Minivet,Pericrocotus flammeus,5
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,White-cheeked Barbet,Psilopogon viridis,2
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Malabar Parakeet,Psittacula columboides,3
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Red-vented Bulbul,Pycnonotus cafer,2
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Red-whiskered Bulbul,Pycnonotus jocosus,2
+obsr4599243,S161407968,2024-02-10,IN-KL,Pathanamthitta,"Mukkuzhy Forest Camp.Kerala, IN (9.445, 76.972)",L29233701,9.4454665,76.9717813,20,28020,,5,Stationary,1,Indian Paradise-Flycatcher,Terpsiphone paradisi,2
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Common Myna,Acridotheres tristis,8
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Clamorous Reed Warbler,Acrocephalus stentoreus,3
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,White-breasted Waterhen,Amaurornis phoenicurus,1
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Indian Spot-billed Duck,Anas poecilorhyncha,20
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Asian Openbill,Anastomus oscitans,14
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Oriental Darter,Anhinga melanogaster,3
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Great Egret,Ardea alba,150
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Gray Heron,Ardea cinerea,35
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Medium Egret,Ardea intermedia,200
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Purple Heron,Ardea purpurea,12
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Indian Pond-Heron,Ardeola grayii,40
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Little Stint,Calidris minuta,13
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Whiskered Tern,Chlidonias hybrida,150
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Brown-headed Gull,Chroicocephalus brunnicephalus,100
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Rock Pigeon,Columba livia,4
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Oriental Magpie-Robin,Copsychus saularis,1
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Large-billed Crow,Corvus macrorhynchos,2
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,House Crow,Corvus splendens,11
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Lesser Whistling-Duck,Dendrocygna javanica,25
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Black Drongo,Dicrurus macrocercus,2
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Little Egret,Egretta garzetta,200
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Western Reef-Heron,Egretta gularis,1
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Gull-billed Tern,Gelochelidon nilotica,18
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Brahminy Kite,Haliastur indus,18
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Black-winged Stilt,Himantopus himantopus,100
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Barn Swallow,Hirundo rustica,2
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Pheasant-tailed Jacana,Hydrophasianus chirurgus,15
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Asian Dowitcher,Limnodromus semipalmatus,1
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Black-tailed Godwit,Limosa limosa,3000
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Blue-tailed Bee-eater,Merops philippinus,5
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Little Cormorant,Microcarbo niger,15
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Black Kite,Milvus migrans,1
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Painted Stork,Mycteria leucocephala,85
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Spot-billed Pelican,Pelecanus philippensis,7
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Indian Cormorant,Phalacrocorax fuscicollis,20
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Glossy Ibis,Plegadis falcinellus,3
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Pacific Golden-Plover,Pluvialis fulva,15
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Gray-headed Swamphen,Porphyrio poliocephalus,20
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Plain Prinia,Prinia inornata,5
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Ashy Prinia,Prinia socialis,1
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Red-vented Bulbul,Pycnonotus cafer,1
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Garganey,Spatula querquedula,15
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Little Tern,Sternula albifrons,2
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Black-headed Ibis,Threskiornis melanocephalus,12
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Wood Sandpiper,Tringa glareola,50
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Common Greenshank,Tringa nebularia,20
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Marsh Sandpiper,Tringa stagnatilis,8
+obsr997445,S166007556,2024-03-26,IN-KL,Alappuzha,Changaram Wetlands -- Ezhupunna,L2796260,9.7974709,76.2889069,65,27300,1,2,Traveling,1,Red-wattled Lapwing,Vanellus indicus,2
+obsr506571,S197419130,2024-10-01,IN-MH,Pune,Walchandnagar-Bhigwan road,L37042515,18.2506662,74.7990187,60,81000,6,5,Traveling,1,Eastern Cattle-Egret,Ardea coromanda,10
+obsr506571,S197419130,2024-10-01,IN-MH,Pune,Walchandnagar-Bhigwan road,L37042515,18.2506662,74.7990187,60,81000,6,5,Traveling,1,Spotted Owlet,Athene brama,1
+obsr506571,S197419130,2024-10-01,IN-MH,Pune,Walchandnagar-Bhigwan road,L37042515,18.2506662,74.7990187,60,81000,6,5,Traveling,1,Indian Nightjar,Caprimulgus asiaticus,4
+obsr506571,S197419130,2024-10-01,IN-MH,Pune,Walchandnagar-Bhigwan road,L37042515,18.2506662,74.7990187,60,81000,6,5,Traveling,1,Asian Green Bee-eater,Merops orientalis,6
+obsr506571,S197419130,2024-10-01,IN-MH,Pune,Walchandnagar-Bhigwan road,L37042515,18.2506662,74.7990187,60,81000,6,5,Traveling,1,Black-crowned Night Heron,Nycticorax nycticorax,1
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Common Myna,Acridotheres tristis,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Common Sandpiper,Actitis hypoleucos,4
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,White-breasted Waterhen,Amaurornis phoenicurus,4
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Kentish Plover,Anarhynchus alexandrinus,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Northern Pintail,Anas acuta,12
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Green-winged Teal,Anas crecca,34
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Indian Spot-billed Duck,Anas poecilorhyncha,8
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Asian Openbill,Anastomus oscitans,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Oriental Darter,Anhinga melanogaster,5
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Graylag Goose,Anser anser,25
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Bar-headed Goose,Anser indicus,28
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Paddyfield Pipit,Anthus rufulus,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Great Egret,Ardea alba,4
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Gray Heron,Ardea cinerea,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Eastern Cattle-Egret,Ardea coromanda,40
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Medium Egret,Ardea intermedia,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Purple Heron,Ardea purpurea,1
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Indian Pond-Heron,Ardeola grayii,4
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Common Babbler,Argya caudata,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Large Gray Babbler,Argya malcolmi,15
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Common Pochard,Aythya ferina,38
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Tufted Duck,Aythya fuligula,12
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Ferruginous Duck,Aythya nyroca,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Little Stint,Calidris minuta,4
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Ruff,Calidris pugnax,40
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Greater Coucal,Centropus sinensis,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Asian Woolly-necked Stork,Ciconia episcopus,1
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Purple Sunbird,Cinnyris asiaticus,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Western Marsh Harrier,Circus aeruginosus,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Rock Pigeon,Columba livia,50
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Indian Robin,Copsychus fulicatus,4
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Oriental Magpie-Robin,Copsychus saularis,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Indian Roller,Coracias benghalensis,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,House Crow,Corvus splendens,10
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Lesser Whitethroat,Curruca curruca,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Rufous Treepie,Dendrocitta vagabunda,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Lesser Whistling-Duck,Dendrocygna javanica,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Black Drongo,Dicrurus macrocercus,4
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Little Egret,Egretta garzetta,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Black-winged Kite,Elanus caeruleus,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Black-necked Stork,Ephippiorhynchus asiaticus,1
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Asian Koel,Eudynamys scolopaceus,1
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Indian Silverbill,Euodice malabarica,4
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Eurasian Kestrel,Falco tinnunculus,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Eurasian Coot,Fulica atra,45
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Common Snipe,Gallinago gallinago,12
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Eurasian Moorhen,Gallinula chloropus,15
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Indian Pied Starling,Gracupica contra,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Common Crane,Grus grus,15
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,White-throated Kingfisher,Halcyon smyrnensis,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Black-winged Stilt,Himantopus himantopus,20
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Barn Swallow,Hirundo rustica,20
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Wire-tailed Swallow,Hirundo smithii,12
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Long-tailed Shrike,Lanius schach,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Black-tailed Godwit,Limosa limosa,8
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Bluethroat,Luscinia svecica,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Eurasian Wigeon,Mareca penelope,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Gadwall,Mareca strepera,35
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Asian Green Bee-eater,Merops orientalis,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Little Cormorant,Microcarbo niger,12
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Black Kite,Milvus migrans,4
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,White Wagtail,Motacilla alba,4
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Gray Wagtail,Motacilla cinerea,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Citrine Wagtail,Motacilla citreola,4
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Western Yellow Wagtail,Motacilla flava,5
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,White-browed Wagtail,Motacilla maderaspatensis,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Painted Stork,Mycteria leucocephala,3
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Egyptian Vulture,Neophron percnopterus,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Red-crested Pochard,Netta rufina,8
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Cotton Pygmy-Goose,Nettapus coromandelianus,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Black-crowned Night Heron,Nycticorax nycticorax,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Brown Rock Chat,Oenanthe fusca,3
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Indian Golden Oriole,Oriolus kundoo,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Common Tailorbird,Orthotomus sutorius,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Gray Francolin,Ortygornis pondicerianus,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,House Sparrow,Passer domesticus,15
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Indian Peafowl,Pavo cristatus,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Dalmatian Pelican,Pelecanus crispus,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Great White Pelican,Pelecanus onocrotalus,1
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Great Cormorant,Phalacrocorax carbo,20
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Indian Cormorant,Phalacrocorax fuscicollis,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Greater Flamingo,Phoenicopterus roseus,20
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Black Redstart,Phoenicurus ochruros,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Common Chiffchaff,Phylloscopus collybita,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Sulphur-bellied Warbler,Phylloscopus griseolus,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Eurasian Spoonbill,Platalea leucorodia,12
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Glossy Ibis,Plegadis falcinellus,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Baya Weaver,Ploceus philippinus,5
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Great Crested Grebe,Podiceps cristatus,4
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Gray-headed Swamphen,Porphyrio poliocephalus,12
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Red-naped Ibis,Pseudibis papillosa,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Rose-ringed Parakeet,Psittacula krameri,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Red-vented Bulbul,Pycnonotus cafer,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Knob-billed Duck,Sarkidiornis melanotos,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Pied Bushchat,Saxicola caprata,1
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Siberian Stonechat,Saxicola maurus,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Northern Shoveler,Spatula clypeata,30
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Garganey,Spatula querquedula,12
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Spotted Dove,Spilopelia chinensis,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Laughing Dove,Spilopelia senegalensis,3
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,River Tern,Sterna aurantia,4
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Eurasian Collared-Dove,Streptopelia decaocto,12
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Red Collared-Dove,Streptopelia tranquebarica,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Brahminy Starling,Sturnia pagodarum,4
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Little Grebe,Tachybaptus ruficollis,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Shikra,Tachyspiza badia,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Ruddy Shelduck,Tadorna ferruginea,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Common Woodshrike,Tephrodornis pondicerianus,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Little Ringed Plover,Thinornis dubius,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Black-headed Ibis,Threskiornis melanocephalus,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Yellow-footed Green-Pigeon,Treron phoenicopterus,10
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Spotted Redshank,Tringa erythropus,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Wood Sandpiper,Tringa glareola,12
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Green Sandpiper,Tringa ochropus,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Marsh Sandpiper,Tringa stagnatilis,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Common Redshank,Tringa totanus,3
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Common Hoopoe,Upupa epops,2
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,Red-wattled Lapwing,Vanellus indicus,6
+obsr4372121,S264747003,2024-12-29,IN-RJ,Udaipur,Menar Lake,L2616278,24.5934121,74.1120958,150,54000,5,2,Traveling,1,White-tailed Lapwing,Vanellus leucurus,2
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Common Myna,Acridotheres tristis,20
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Common Kingfisher,Alcedo atthis,1
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Indian Spot-billed Duck,Anas poecilorhyncha,40
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,duck sp.,Anatidae (duck sp.),1000
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Graylag Goose,Anser anser,1
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Great Egret,Ardea alba,6
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Gray Heron,Ardea cinerea,4
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Purple Heron,Ardea purpurea,1
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Indian Pond-Heron,Ardeola grayii,10
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Common Babbler,Argya caudata,8
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Jungle Babbler,Argya striata,2
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Purple Sunbird,Cinnyris asiaticus,2
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Rock Pigeon,Columba livia,20
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Oriental Magpie-Robin,Copsychus saularis,1
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,House Crow,Corvus splendens,100
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Black Drongo,Dicrurus macrocercus,2
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Little Egret,Egretta garzetta,4
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,white egret sp.,Egretta/Ardea sp.,40
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Eurasian Coot,Fulica atra,10
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Eurasian Moorhen,Gallinula chloropus,50
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,moorhen/coot/gallinule sp.,Gallinula/Fulica/Porphyrio sp.,100
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Indian Pied Starling,Gracupica contra,6
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,White-throated Kingfisher,Halcyon smyrnensis,1
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Black-winged Stilt,Himantopus himantopus,8
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Wire-tailed Swallow,Hirundo smithii,2
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Pallas's Gull,Ichthyaetus ichthyaetus,1
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Lesser Black-backed Gull,Larus fuscus,1
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Gadwall,Mareca strepera,6
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Little Cormorant,Microcarbo niger,10
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Black Kite,Milvus migrans,2
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Black-crowned Night Heron,Nycticorax nycticorax,2
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Common Tailorbird,Orthotomus sutorius,3
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Asian Tit,Parus cinereus,1
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,House Sparrow,Passer domesticus,2
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Rosy Starling,Pastor roseus,100
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Great White Pelican,Pelecanus onocrotalus,6
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Great Cormorant,Phalacrocorax carbo,300
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Hume's Warbler,Phylloscopus humei,1
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Gray-headed Swamphen,Porphyrio poliocephalus,2
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Ashy Prinia,Prinia socialis,1
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Rose-ringed Parakeet,Psittacula krameri,15
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Red-vented Bulbul,Pycnonotus cafer,8
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Knob-billed Duck,Sarkidiornis melanotos,8
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Northern Shoveler,Spatula clypeata,4
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Laughing Dove,Spilopelia senegalensis,10
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Eurasian Collared-Dove,Streptopelia decaocto,100
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Brahminy Starling,Sturnia pagodarum,14
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Little Grebe,Tachybaptus ruficollis,5
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Tringa sp.,Tringa sp.,2
+obsr393275,S211799469,2025-02-02,IN-RJ,Jaipur,Lake Man Sagar,L2628631,26.9568086,75.8486867,58,59340,0.645,2,Traveling,1,Red-wattled Lapwing,Vanellus indicus,2
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Sand Lark,Alaudala raytal,3
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Asian Openbill,Anastomus oscitans,19
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Great Egret,Ardea alba,1
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Gray Heron,Ardea cinerea,2
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Eastern Cattle-Egret,Ardea coromanda,3
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Medium Egret,Ardea intermedia,2
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Purple Heron,Ardea purpurea,1
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Indian Pond-Heron,Ardeola grayii,5
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Cinnamon Bittern,Botaurus cinnamomeus,3
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Yellow Bittern,Botaurus sinensis,2
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Pied Kingfisher,Ceryle rudis,3
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Asian Woolly-necked Stork,Ciconia episcopus,6
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Rock Pigeon,Columba livia,7
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Indian Roller,Coracias benghalensis,1
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,House Crow,Corvus splendens,13
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Rufous Treepie,Dendrocitta vagabunda,4
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Black Drongo,Dicrurus macrocercus,2
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Little Egret,Egretta garzetta,4
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Black-winged Kite,Elanus caeruleus,2
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Ashy-crowned Sparrow-Lark,Eremopterix griseus,4
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Small Pratincole,Glareola lactea,2
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,White-throated Kingfisher,Halcyon smyrnensis,5
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Common Hawk-Cuckoo,Hierococcyx varius,2
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Pheasant-tailed Jacana,Hydrophasianus chirurgus,2
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Asian Green Bee-eater,Merops orientalis,7
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Blue-tailed Bee-eater,Merops philippinus,4
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Bronze-winged Jacana,Metopidius indicus,3
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,White-browed Wagtail,Motacilla maderaspatensis,3
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Black-crowned Night Heron,Nycticorax nycticorax,5
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Common Tailorbird,Orthotomus sutorius,2
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Gray Francolin,Ortygornis pondicerianus,6
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Stork-billed Kingfisher,Pelargopsis capensis,4
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Oriental Honey-buzzard,Pernis ptilorhynchus,1
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Glossy Ibis,Plegadis falcinellus,68
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Bengal Bushlark,Plocealauda assamica,6
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Gray-breasted Prinia,Prinia hodgsonii,2
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Ashy Prinia,Prinia socialis,2
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Blue-throated Barbet,Psilopogon asiaticus,3
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Rose-ringed Parakeet,Psittacula krameri,3
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Greater Painted-Snipe,Rostratula benghalensis,5
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Bristled Grassbird,Schoenicola striatus,1
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Spotted Dove,Spilopelia chinensis,1
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Eurasian Collared-Dove,Streptopelia decaocto,4
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Little Grebe,Tachybaptus ruficollis,2
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Shikra,Tachyspiza badia,2
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Little Ringed Plover,Thinornis dubius,3
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Black-headed Ibis,Threskiornis melanocephalus,6
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Green Sandpiper,Tringa ochropus,2
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Barred Buttonquail,Turnix suscitator,4
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,River Lapwing,Vanellus duvaucelii,4
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Red-wattled Lapwing,Vanellus indicus,6
+obsr2266107,S242913420,2025-05-25,IN-WB,Birbhum,"Laudaha, West Bengal, IN",L39844534,23.5681442,87.8204956,109,57300,4.667,3,Traveling,1,Yellow-wattled Lapwing,Vanellus malabaricus,2
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Jungle Myna,Acridotheres fuscus,2
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Common Myna,Acridotheres tristis,4
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Blyth's Reed Warbler,Acrocephalus dumetorum,5
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,White-breasted Waterhen,Amaurornis phoenicurus,2
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Indian Spot-billed Duck,Anas poecilorhyncha,20
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Oriental Darter,Anhinga melanogaster,20
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Little Swift,Apus affinis,4
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Great Egret,Ardea alba,3
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Gray Heron,Ardea cinerea,5
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Eastern Cattle-Egret,Ardea coromanda,2
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Purple Heron,Ardea purpurea,2
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Indian Pond-Heron,Ardeola grayii,18
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Greater Coucal,Centropus sinensis,3
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Purple Sunbird,Cinnyris asiaticus,4
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Western Marsh Harrier,Circus aeruginosus,1
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Rock Pigeon,Columba livia,20
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Large-billed Crow,Corvus macrorhynchos,3
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,House Crow,Corvus splendens,3
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Pale-billed Flowerpecker,Dicaeum erythrorhynchos,6
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Black Drongo,Dicrurus macrocercus,10
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Little Egret,Egretta garzetta,9
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Indian Silverbill,Euodice malabarica,4
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Taiga Flycatcher,Ficedula albicilla,1
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Eurasian Coot,Fulica atra,7
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Eurasian Moorhen,Gallinula chloropus,4
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,White-throated Kingfisher,Halcyon smyrnensis,2
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Brahminy Kite,Haliastur indus,7
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Booted Eagle,Hieraaetus pennatus,1
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Brown Shrike,Lanius cristatus,1
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Purple-rumped Sunbird,Leptocoma zeylonica,12
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Scaly-breasted Munia,Lonchura punctulata,12
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Asian Green Bee-eater,Merops orientalis,6
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Bronze-winged Jacana,Metopidius indicus,15
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Little Cormorant,Microcarbo niger,7
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Black Kite,Milvus migrans,8
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Gray Wagtail,Motacilla cinerea,4
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,White-browed Wagtail,Motacilla maderaspatensis,2
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Common Tailorbird,Orthotomus sutorius,8
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Asian Tit,Parus cinereus,2
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Spot-billed Pelican,Pelecanus philippensis,30
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Great Cormorant,Phalacrocorax carbo,16
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Indian Cormorant,Phalacrocorax fuscicollis,3
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Glossy Ibis,Plegadis falcinellus,3
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Gray-headed Swamphen,Porphyrio poliocephalus,20
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Plain Prinia,Prinia inornata,2
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,White-cheeked Barbet,Psilopogon viridis,5
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Rose-ringed Parakeet,Psittacula krameri,20
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Dusky Crag-Martin,Ptyonoprogne concolor,2
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Red-vented Bulbul,Pycnonotus cafer,5
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Red-whiskered Bulbul,Pycnonotus jocosus,10
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,White-browed Bulbul,Pycnonotus luteolus,1
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Pied Bushchat,Saxicola caprata,2
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Spotted Dove,Spilopelia chinensis,15
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Little Grebe,Tachybaptus ruficollis,2
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Shikra,Tachyspiza badia,1
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Black-headed Ibis,Threskiornis melanocephalus,1
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Red-wattled Lapwing,Vanellus indicus,2
+obsr515806,S283681452,2025-11-08,IN-KA,Bengaluru Urban,Saul Kere / Sowl Kere,L5643010,12.9183781,77.6803565,119,28740,0.603,1,Traveling,1,Indian White-eye,Zosterops palpebrosus,4
+obsr2954870,S290161366,2025-12-25,IN-GJ,Kachchh,Great Rann of Kachchh--Khadir Beyt Rd,L4016592,23.9077589,70.507284,300,52200,5,1,Traveling,1,Common Sandpiper,Actitis hypoleucos,
+obsr2954870,S290161366,2025-12-25,IN-GJ,Kachchh,Great Rann of Kachchh--Khadir Beyt Rd,L4016592,23.9077589,70.507284,300,52200,5,1,Traveling,1,Asian Green Bee-eater,Merops orientalis,
+obsr2954870,S290161366,2025-12-25,IN-GJ,Kachchh,Great Rann of Kachchh--Khadir Beyt Rd,L4016592,23.9077589,70.507284,300,52200,5,1,Traveling,1,pelican sp.,Pelecanus sp.,
+obsr2954870,S290161366,2025-12-25,IN-GJ,Kachchh,Great Rann of Kachchh--Khadir Beyt Rd,L4016592,23.9077589,70.507284,300,52200,5,1,Traveling,1,Greater Flamingo,Phoenicopterus roseus,
+obsr2954870,S290161366,2025-12-25,IN-GJ,Kachchh,Great Rann of Kachchh--Khadir Beyt Rd,L4016592,23.9077589,70.507284,300,52200,5,1,Traveling,1,Eurasian Spoonbill,Platalea leucorodia,
