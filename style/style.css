@@ -1,0 +1,565 @@
+/* =========================================================
+   AVICRED
+   GLOBAL COLOUR AND TYPOGRAPHY
+   ========================================================= */
+
+:root {
+  --forest: #245B45;
+  --deep-forest: #173F32;
+  --mid-green: #477A59;
+  --sage: #B8CDB5;
+  --light-sage: #E6EEE2;
+  --cream: #F3EEDC;
+  --ivory: #F8F7F0;
+  --white: #FFFFFF;
+  --text: #263B30;
+  --muted: #65766A;
+}
+
+
+/* =========================================================
+   GLOBAL FONT
+   TIMES NEW ROMAN THROUGHOUT
+   ========================================================= */
+
+html,
+body,
+button,
+input,
+select,
+textarea,
+.navbar,
+.card,
+table,
+p,
+span,
+div,
+label,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+
+body {
+  background-color: var(--ivory);
+  color: var(--text);
+  font-size: 17px;
+}
+
+
+/* All headings bold */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.card-header {
+  font-weight: 700 !important;
+  color: var(--deep-forest);
+}
+
+
+/* =========================================================
+   NAVIGATION BAR
+   ========================================================= */
+
+.navbar {
+  background-color: var(--deep-forest) !important;
+  border-bottom: 4px solid var(--sage);
+  box-shadow: 0 3px 10px rgba(20, 50, 35, 0.15);
+}
+
+
+.navbar .navbar-brand {
+  color: white !important;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+
+.navbar .nav-link {
+  color: #F5F4E9 !important;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 14px 18px !important;
+}
+
+
+.navbar .nav-link:hover {
+  color: #D5E7CC !important;
+}
+
+
+.navbar .nav-link.active {
+  color: white !important;
+  background-color: var(--mid-green) !important;
+  border-radius: 7px;
+}
+
+
+/* =========================================================
+   HOME PAGE
+   ========================================================= */
+
+.home-page {
+  padding-bottom: 35px;
+}
+
+
+/* Main hero banner */
+
+.hero {
+  position: relative;
+  overflow: hidden;
+
+  background: linear-gradient(
+    120deg,
+    rgba(23, 63, 50, 0.99),
+    rgba(36, 91, 69, 0.96),
+    rgba(91, 126, 83, 0.94)
+  );
+
+  color: white;
+
+  padding: 75px 45px;
+
+  border-radius: 0 0 24px 24px;
+
+  margin: 0 0 35px 0;
+
+  box-shadow: 0 8px 22px rgba(23, 63, 50, 0.20);
+}
+
+
+.hero-content {
+  max-width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+
+/* Small introductory text */
+
+.hero-kicker {
+  color: #D7E5C9;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 3px;
+  margin-bottom: 15px;
+}
+
+
+/* AVICRED title */
+
+.hero-title {
+  color: white !important;
+  font-size: clamp(48px, 8vw, 78px);
+  font-weight: bold;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+
+/* Full name */
+
+.hero-full-name {
+  color: #F3EEDC !important;
+  font-size: clamp(23px, 3vw, 34px);
+  font-weight: bold;
+  line-height: 1.3;
+  margin: 10px auto 20px auto;
+}
+
+
+/* Decorative divider */
+
+.hero-divider {
+  width: 110px;
+  height: 4px;
+  background-color: #D9CDA9;
+  margin: 25px auto;
+  border-radius: 5px;
+}
+
+
+/* Hero subtitle */
+
+.hero-content h3 {
+  color: white !important;
+  font-size: 27px;
+  margin-bottom: 18px;
+}
+
+
+/* Hero description */
+
+.hero-description {
+  color: #F1F4E9;
+  font-size: 19px;
+  line-height: 1.6;
+  max-width: 850px;
+  margin: 10px auto;
+}
+
+
+/* Start assessment button */
+
+.hero-button {
+  margin-top: 25px;
+
+  color: var(--deep-forest) !important;
+
+  background-color: var(--cream) !important;
+
+  border: 2px solid white !important;
+
+  border-radius: 9px;
+
+  font-weight: bold;
+
+  padding: 13px 28px;
+
+  transition: 0.2s ease;
+}
+
+
+.hero-button:hover {
+  background-color: white !important;
+  transform: translateY(-2px);
+}
+
+
+/* =========================================================
+   HOME INTRODUCTION PANEL
+   ========================================================= */
+
+.home-intro {
+  max-width: 1050px;
+
+  margin: 35px auto;
+
+  padding: 30px 35px;
+
+  background-color: var(--cream);
+
+  border-left: 6px solid var(--mid-green);
+
+  border-radius: 10px;
+}
+
+
+.home-intro h2 {
+  margin-bottom: 15px;
+  font-size: 29px;
+}
+
+
+.home-intro p {
+  color: var(--text);
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+
+/* =========================================================
+   HOME FEATURE CARDS
+   ========================================================= */
+
+.feature-card {
+  border: none !important;
+
+  border-radius: 15px !important;
+
+  min-height: 230px;
+
+  box-shadow: 0 5px 15px rgba(30, 60, 40, 0.10);
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+
+.feature-card:hover {
+  transform: translateY(-5px);
+
+  box-shadow: 0 9px 22px rgba(30, 60, 40, 0.16);
+}
+
+
+/* Different green and cream shades */
+
+.feature-card-green {
+  background-color: #DCE9D9 !important;
+}
+
+
+.feature-card-cream {
+  background-color: #F1EBD8 !important;
+}
+
+
+.feature-card-sage {
+  background-color: #E9EFE6 !important;
+}
+
+
+/* Feature card headings */
+
+.feature-card h3 {
+  font-size: 24px;
+  margin-top: 15px;
+  margin-bottom: 12px;
+}
+
+
+/* Feature card text */
+
+.feature-card p {
+  font-size: 17px;
+  line-height: 1.55;
+  color: var(--text);
+}
+
+
+/* Feature icons */
+
+.feature-icon {
+  color: var(--forest);
+  font-size: 35px;
+}
+
+
+/* =========================================================
+   HOME PAGE CLOSING PANEL
+   ========================================================= */
+
+.home-footer {
+  background-color: var(--deep-forest);
+
+  color: white;
+
+  text-align: center;
+
+  padding: 32px 25px;
+
+  margin-top: 35px;
+
+  border-radius: 14px;
+}
+
+
+.home-footer h3 {
+  color: white !important;
+  font-size: 27px;
+}
+
+
+.home-footer p {
+  color: #E7EDE2;
+
+  font-size: 18px;
+
+  max-width: 850px;
+
+  margin: 12px auto 0 auto;
+
+  line-height: 1.6;
+}
+
+
+/* =========================================================
+   SHARED STYLING FOR ALL OTHER PAGES
+   ========================================================= */
+
+.container-fluid {
+  padding-top: 22px;
+  padding-bottom: 25px;
+}
+
+
+/* Page headings */
+
+h2 {
+  margin-top: 12px;
+  margin-bottom: 18px;
+  font-size: 30px;
+}
+
+
+h4 {
+  margin-top: 22px;
+  font-size: 22px;
+}
+
+
+p,
+li {
+  line-height: 1.6;
+}
+
+
+/* =========================================================
+   CONTENT CARDS
+   ========================================================= */
+
+.card {
+  background-color: var(--white);
+
+  border: 1px solid #DCE5D8 !important;
+
+  border-radius: 12px !important;
+
+  box-shadow: 0 3px 12px rgba(30, 60, 40, 0.07);
+
+  margin-bottom: 22px;
+}
+
+
+.card-header {
+  background-color: var(--light-sage) !important;
+
+  color: var(--deep-forest) !important;
+
+  font-size: 21px;
+
+  border-bottom: 1px solid #D3DFD0 !important;
+
+  border-radius: 12px 12px 0 0 !important;
+}
+
+
+/* =========================================================
+   BUTTONS
+   ========================================================= */
+
+.btn-primary {
+  background-color: var(--forest) !important;
+
+  border-color: var(--forest) !important;
+
+  color: white !important;
+
+  font-weight: bold;
+}
+
+
+.btn-primary:hover {
+  background-color: var(--deep-forest) !important;
+
+  border-color: var(--deep-forest) !important;
+}
+
+
+.btn-success {
+  background-color: var(--mid-green) !important;
+
+  border-color: var(--mid-green) !important;
+}
+
+
+/* =========================================================
+   INPUT FIELDS
+   ========================================================= */
+
+.form-control,
+.form-select {
+  border: 1px solid #B8CDB5;
+
+  border-radius: 7px;
+
+  background-color: white;
+}
+
+
+.form-control:focus,
+.form-select:focus {
+  border-color: var(--forest);
+
+  box-shadow: 0 0 0 0.2rem rgba(71, 122, 89, 0.15);
+}
+
+
+/* =========================================================
+   RESULTS TABLE
+   ========================================================= */
+
+table.dataTable thead th {
+  background-color: var(--forest) !important;
+
+  color: white !important;
+
+  font-weight: bold;
+}
+
+
+table.dataTable tbody tr:nth-child(even) {
+  background-color: #F0F4EC !important;
+}
+
+
+table.dataTable tbody tr:hover {
+  background-color: #E0EBDD !important;
+}
+
+
+/* =========================================================
+   SIDEBAR
+   ========================================================= */
+
+.bslib-sidebar-layout > .sidebar {
+  background-color: var(--cream);
+
+  border-right: 1px solid #DCE5D8;
+}
+
+
+/* =========================================================
+   LINKS
+   ========================================================= */
+
+a {
+  color: var(--forest);
+}
+
+
+a:hover {
+  color: var(--deep-forest);
+}
+
+
+/* =========================================================
+   RESPONSIVE DESIGN
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+  .hero {
+    padding: 48px 20px;
+  }
+
+  .hero-title {
+    letter-spacing: 2px;
+  }
+
+  .hero-description {
+    font-size: 17px;
+  }
+
+  .home-intro {
+    padding: 22px;
+  }
+
+  .feature-card {
+    margin-bottom: 15px;
+  }
+
+}
