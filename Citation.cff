@@ -7,6 +7,6 @@ authors:
     given-names: "Ritayan"
     orcid: "https://orcid.org/0009-0004-2631-5446" 
 repository-code: "https://github.com/AlfredParadox/AviCRED"
-doi: "https://doi.org/10.5281/zenodo.22028394"
-date-released: 2026-08-20
-version: "0.1"
+doi: "https://doi.org/10.5281/zenodo.22028393"
+date-released: 2026-11-18
+version: "2.0.0"
